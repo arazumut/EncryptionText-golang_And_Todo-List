@@ -1,3 +1,4 @@
+Encryption Text
 Araç, AES (Advanced Encryption Standard) algoritmasını kullanarak metinleri şifreler ve şifreli metinleri çözerek orijinal metni elde eder.
 2. Fonksiyonlar ve Görevleri
 2.1. generateRandomBytes(size int) ([]byte, error)
