@@ -1,6 +1,6 @@
   <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/> 
-    </a>
+    </a> <br>
 Encryption Text <br>
 Araç, AES (Advanced Encryption Standard) algoritmasını kullanarak metinleri şifreler ve şifreli metinleri çözerek orijinal metni elde eder.
 2. Fonksiyonlar ve Görevleri
