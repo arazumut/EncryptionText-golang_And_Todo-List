@@ -12,7 +12,7 @@ Bu fonksiyon, belirli bir boyutta rastgele bayt dizisi (byte array) oluşturur. 
 Bu fonksiyon, verilen düz metni (plain text) ve anahtarı (key) kullanarak şifreler. Şifreleme işlemi AES algoritmasının CBC (Cipher Block Chaining) modu kullanılarak gerçekleştirilir.
 
     Girdi: Düz metin ve şifreleme anahtarı.
-    Çıktı: Şifrelenmiş metin (hex formatında).
+    Çıktı: Şifrelenmiş metin (hex formatında)
 
 Şifreleme süreci şu adımları içerir:
 
