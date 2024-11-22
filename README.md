@@ -63,6 +63,7 @@ Bu metin şifreleme ve şifre çözme aracı, AES algoritmasını kullanarak gü
     Bu Go programı, kullanıcıların komut satırında etkileşimli olarak bir yapılacaklar listesi (to-do list) yönetmesine olanak tanır. Program, görevleri ekleme, silme ve tamamlama işlevlerini sunar ve görevleri JSON formatında bir dosyada saklar. Aşağıda programın nasıl çalıştığını ve her bir bölümünün ne yaptığını açıklıyorum.
 
 Programın Genel Yapısı
+
 Görevlerin Tanımlanması: Görevler (tasks), her biri bir kimlik (ID), isim (name) ve tamamlanma durumu (done) olan Task adında bir yapı (struct) ile temsil edilir.
 Veri Depolama: Görevler, tasks.json adında bir dosyada JSON formatında saklanır. Görevler program başlatıldığında bu dosyadan yüklenir ve program sonlandırıldığında bu dosyaya kaydedilir.
 Kullanıcı Etkileşimi: Kullanıcı, komut satırında etkileşimli olarak görev ekleyebilir, silebilir ve tamamlanmış olarak işaretleyebilir. Kullanıcıdan alınan komutlara göre uygun işlemler gerçekleştirilir.
