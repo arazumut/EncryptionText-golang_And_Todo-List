@@ -16,6 +16,7 @@ Bu fonksiyon, verilen düz metni (plain text) ve anahtarı (key) kullanarak şif
 
 Şifreleme süreci şu adımları içerir:
 
+
     Düz metin ve anahtar bayt dizisine dönüştürülür.
     AES blok şifreleyici oluşturulur.
     Rastgele bir IV (Initialization Vector) oluşturulur.
